@@ -1,0 +1,57 @@
+.header {
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px; }
+  .header .logoImage {
+    text-Align: center;
+    height: 80px;
+    width: 214px; }
+  .header .sloganImage {
+    text-Align: center;
+    height: 32px;
+    width: 218px; }
+
+.footer {
+  height: 195px;
+  background-color: black;
+  margin-top: 30px;
+  color: white; }
+
+.landing {
+  height: 500px;
+  margin-left: 10%;
+  width: 80%; }
+  .landing .product {
+    height: 200;
+    width: 300px;
+    margin-bottom: 30px;
+    text-align: center;
+    display: inline-block; }
+    .landing .product .productImage {
+      width: 150px;
+      height: 150px; }
+
+.headerTopLinks {
+  text-align: right;
+  margin-right: 200px; }
+  .headerTopLinks .icon {
+    display: inline;
+    margin-left: 10px; }
+    .headerTopLinks .icon .iconImg {
+      height: 20px;
+      width: 20px; }
+
+.headerMenu .menuItem {
+  display: inline;
+  margin-left: 15px;
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+  font-size: 50px;
+  font-family: "Arial, Helvetica, sans-serif";
+  .menuList-background-color: black;
+  .menuList-width: 200px;
+  .menuList-position: absolute;
+  .menuList-zIndex: 1; }
+
+/*# sourceMappingURL=app.css.map */
